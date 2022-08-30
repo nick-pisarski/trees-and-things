@@ -1,0 +1,9 @@
+{
+  "name": "trees-and-things",
+  "version": "0.0.1",
+  "title": "Trees and Things",
+  "author": "Nick Pisarski",
+  "homepage": "https://github.com/nick-pisarski/trees-and-things",
+  "description": "Small mod to add recipes for all the different tree types and rocks.",
+  "factorio_version": "1.1"
+}
